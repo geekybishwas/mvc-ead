@@ -737,6 +737,7 @@
 
             new bootstrap.Modal(document.getElementById('editModal')).show();
         }
+        // Add loading state to buttons
 
         // Enhanced delete function
         function deletePost(postId, title) {
